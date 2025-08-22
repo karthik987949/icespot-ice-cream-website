@@ -2,7 +2,7 @@
 
 > A modern and responsive **Ice Cream Brand Landing Page** built using **HTML, CSS, and JavaScript** to showcase flavors and enhance user engagement.
 
-![IceSpot Banner](assets/images/screenshot.png) <!-- Replace this with the actual path of your screenshot -->
+![IceSpot Banner](main.png) <!-- Replace this with the actual path of your screenshot -->
 
 ---
 
@@ -56,17 +56,11 @@ Simply open `index.html` in your favorite browser.
 
 ---
 
-## 🌐 Live Demo
-If hosted on **GitHub Pages**, you can add the link here:  
-`[Live Demo](https://your-username.github.io/icespot-ice-cream-website/)`
-
----
 
 ## 📷 Preview
 Include a screenshot of your project by replacing the placeholder above:
-```markdown
-![IceSpot Preview](assets/images/screenshot.png)
-```
+![IceSpot Banner](pics.png)
+![IceSpot Banner](review.png)
 
 ---
 
@@ -76,6 +70,6 @@ Contributions are welcome! Feel free to **fork** this repo, create a new branch,
 ---
 
 ## 👨‍💻 Author
-Made with ❤️ by **Karthik**  
+Made with ❤️ by **Sai Karthik**  
 - [GitHub](https://github.com/karthik987949)  
-- [LinkedIn](https://www.linkedin.com/) <!-- Add your LinkedIn if available -->
+- [LinkedIn](https://www.linkedin.com/](https://www.linkedin.com/in/paluvai-sai-karthik-3530a8237/)) <!-- Add your LinkedIn if available -->
